@@ -1,5 +1,12 @@
 import { Text, View } from "react-native";
 
+// Stack.Screen
+// ScrollView
+// SafeAreaView
+// Button
+// TouchableOpacity
+// Link to next screen
+
 export default function Index() {
   return (
     <View
